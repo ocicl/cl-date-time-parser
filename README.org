@@ -1,0 +1,9 @@
+* cl-date-time-parser
+
+Parse date-time-string, liberally.
+
+|---------+------------------------------------------------------|
+| source  | git:https://github.com/tkych/cl-date-time-parser.git |
+| commit  | 00d6fc7                                              |
+| systems | cl-date-time-parser                                  |
+|---------+------------------------------------------------------|
